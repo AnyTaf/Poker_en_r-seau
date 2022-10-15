@@ -2,7 +2,7 @@
 
 ***
 ## Présentation:
-**[NOM DE NOTRE LOGICIEL]**Logiciel permettant de jouer au Poker en réseau.
+**[Poker_en_réseau]**est un logiciel permettant de jouer au Poker en réseau.
 ***
 >Le logiciel permet de: 
    - Jouer à deux variantes du Poker: Texas Hold'em et Fermé.
