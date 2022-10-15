@@ -27,19 +27,6 @@ java Main.Main
 
 
 
-##Statut actuel du projet:
-
-##Les exigences de l’environnement de développement en vue de son intégration:
-
-##Une instruction pour l’installation etl’utilisation:
-
-##Bugs connus et corrections éventuelles apportées:
-
-##Section FAQ reprenant toutes les questions posées jusqu’à présent:
-
-#Droits d’auteurs et informations sur la licence:
-Auteurs: Yanis YAHMI
-
 
 
 
